@@ -11,7 +11,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-pro-sidebar">
       <div className="App">
         {/* Render MyProSidebar only when not on /login or /signup routes */}
         <Routes>
@@ -35,7 +35,6 @@ function App() {
           <Route path="/signup" element={<Signup />} />
         </Routes>
       </div>
-      {/* "homepage": "https://sumitnce1.github.io/react-pro-sidebar", */}
     </Router>
   );
 }
