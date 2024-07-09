@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-pro-sidebar/static/css/main.1fcd2009.css",
-    "main.js": "/react-pro-sidebar/static/js/main.01851563.js",
+    "main.js": "/react-pro-sidebar/static/js/main.900df9dc.js",
     "static/js/453.85174e52.chunk.js": "/react-pro-sidebar/static/js/453.85174e52.chunk.js",
     "index.html": "/react-pro-sidebar/index.html",
     "main.1fcd2009.css.map": "/react-pro-sidebar/static/css/main.1fcd2009.css.map",
-    "main.01851563.js.map": "/react-pro-sidebar/static/js/main.01851563.js.map",
+    "main.900df9dc.js.map": "/react-pro-sidebar/static/js/main.900df9dc.js.map",
     "453.85174e52.chunk.js.map": "/react-pro-sidebar/static/js/453.85174e52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fcd2009.css",
-    "static/js/main.01851563.js"
+    "static/js/main.900df9dc.js"
   ]
 }
